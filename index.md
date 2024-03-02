@@ -2,9 +2,9 @@
 
 layout: col-sidebar
 title: OWASP DevSecOps Automation Matrix
-tags: devsecops automation
+tags: devsecops
 level: 2
-type: tool
+type: documentation
 pitch: Security Automation Framework for Humans.
 
 ---
