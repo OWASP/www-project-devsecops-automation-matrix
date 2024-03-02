@@ -2,21 +2,14 @@
 
 layout: col-sidebar
 title: OWASP DevSecOps Automation Matrix
-tags: example-tag
+tags: devsecops automation
 level: 2
-type: 
-pitch: A very brief, one-line description of your project
+type: tool
+pitch: Security Automation Framework for Humans.
 
 ---
 
-This is an example of a Project or Chapter Page.  Please change these items to indicate the actual information you wish to present.  In addition to this information, the 'front-matter' above this text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
+The OWASP DAM is like a roadmap for teams diving into DevSecOps automation. It lays out 64 key controls in its first version, offering a solid defense plan against security risks. By putting these controls into action, alongside custom automation tools, teams can potentially slash security vulnerabilities by a whopping 95%.
 
-layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
+What makes the OWASP DAM special is its practical approach. Instead of just theory, each control is based on real-world data and hands-on experience. This means it's not just some abstract concept but something that actually works in the trenches. For security engineers, DevOps teams, and CISOs, embracing this framework means building security right into their development processes. It's about being proactive in managing risks and ensuring a strong defense against cyber threats. The OWASP DAM is a game-changer, empowering teams to tackle security challenges head-on and create a safer digital environment for everyone.
 
-title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
-
-tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
-
-level: For projects, this is your project level (2 - Incubator, 3 - Lab, 3.5 - Production, 4 - Flagship)
-
-type: code, documentation, or other
